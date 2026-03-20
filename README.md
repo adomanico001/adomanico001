@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 A recent graduate of Auburn University's Samuel Ginn College of Engineering, I am now building projects that extend the foundation I developed through my computer science degree, especially in software development, digital experience design (XD), and analytics. 
 
 <b>Current Project: March 2026, Decision Engine</b> <br>
-A Java Spring Boot campaign eligiblity engine that determines whether a customer qualifies for an offer based on audience rules, suppression logic, campaign state, and delivery frequency limits. The system returns auditable yes-or-no decisions with detailed reasons, reflecting the backend logic behind loyalty and personalized marketing platforms.
+A Java campaign eligiblity engine that determines whether a customer qualifies for an offer based on audience rules, suppression logic, campaign state, and delivery frequency limits. The system returns auditable yes-or-no decisions with detailed reasons, reflecting the backend logic behind loyalty and personalized marketing platforms.
 
 My primary goal for this project is to improve at test-first development, rule evaluation, API design, edge-case handling, and building software that produces clear and traceable decisions.
 
