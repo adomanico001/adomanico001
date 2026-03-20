@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Front-end Development | Email Development | Marketing Technology
+
+A graduate of Auburn University's Samuel Ginn College of Engineering, I am building projects that extend the foundation I developed through my computer science degree, especially in software development, digital experience design (XD), and analytics. My academic repositories are private to honor the Academic Integrity Policy, but available to employers upon request.
