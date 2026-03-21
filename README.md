@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A recent graduate of Auburn University's Samuel Ginn College of Engineering, I am now building projects that extend the foundation I developed through my computer science degree, especially in software development, digital experience design (XD), and analytics. I am seeking opportunities in front-end development, email development, and/or marketing technology within USA.
+A recent graduate of Auburn University's Samuel Ginn College of Engineering, I am now building projects that extend the foundation I developed through my computer science degree, especially in software development, digital experience design (XD), and analytics. I am seeking opportunities in full-stack development, email development, and/or marketing technology within USA.
 
 <b>Current Project, March 2026: Decision Engine</b> <br>
 A Java campaign eligiblity engine that determines whether a customer qualifies for an offer based on audience rules, suppression logic, campaign state, and delivery frequency limits. The system returns auditable yes-or-no decisions with detailed reasons, reflecting the backend logic behind loyalty and personalized marketing platforms.
