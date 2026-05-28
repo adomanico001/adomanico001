@@ -5,3 +5,10 @@
 --> 
 
 My academic repositories are private to honor the Academic Integrity Policy, but available to employers upon request.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=adomanico001&color=0B6BCB&style=flat-square&label=Views" alt="Profile views" />
+</p>
