@@ -46,7 +46,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=adomanico001&color=0B6BCB&style=flat-square&label=Views" alt="Profile views" />
-</p>
