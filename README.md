@@ -7,6 +7,11 @@
 My academic repositories are private to honor the Academic Integrity Policy, but available to employers upon request.
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p align="right">
