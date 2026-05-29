@@ -24,7 +24,11 @@ My academic repositories are private to honor the Academic Integrity Policy, but
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr 46 mins          ███████████████████████▓░   94.87 %
+Markdown     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+HTML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
