@@ -10,7 +10,7 @@ Computer science graduate focused on solution engineering, customer workflows, a
 
 I build projects that connect business operations, data, and user-facing tools: SQL decision logic, customer recovery workflows, dashboarding, workflow automation, and technical documentation.
 
-My academic repositories are private to honor the Academic Integrity Policy, but available to employers upon request.
+My academic repositories are private to honor the Academic Integrity Policy, but available upon request.
 
 ## Current Focus
 
