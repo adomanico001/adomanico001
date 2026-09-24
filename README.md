@@ -1,0 +1,1 @@
+Computer Science graduate building toward software engineering roles focused on systems, simulation, and embedded software. Currently developing C++ and Python projects involving Linux, concurrency, networking, testing, and system integration. My background spans software development, technical implementation, QA, data, and customer-facing engineering work.
